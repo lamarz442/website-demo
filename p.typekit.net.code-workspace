@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../../candle/p.typekit.net"
+		},
+		{
+			"path": "../../candle/safeframe.googlesyndication.com"
+		},
+		{
+			"path": "../../candle/sidebar.bugherd.com"
+		},
+		{
+			"path": "../../candle/use.typekit.net"
+		},
+		{
+			"path": "../../candle/www.bugherd.com"
+		},
+		{
+			"path": "../../candle/www.google-analytics.com"
+		},
+		{
+			"path": "../../candle/www.googletagmanager.com"
+		},
+		{
+			"path": "../../candle/_DataURI"
+		},
+		{
+			"path": "../../candle/bugherd-attachments.s3.amazonaws.com"
+		},
+		{
+			"path": "../../candle/cdnjs.cloudflare.com"
+		},
+		{
+			"path": "../../candle/fonts.googleapis.com"
+		},
+		{
+			"path": "../../candle/candeltx.com"
+		}
+	]
+}
